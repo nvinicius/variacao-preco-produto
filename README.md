@@ -100,7 +100,3 @@ gcc variacao-preco-produto.c -o variacao-preco-produto.exe
 * Entrada e saída formatada
 
 ---
-
-```
-
-```
