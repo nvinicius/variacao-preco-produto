@@ -98,5 +98,3 @@ gcc variacao-preco-produto.c -o variacao-preco-produto.exe
 * Manipulação de strings e números decimais
 * Estrutura `struct` para organizar dados
 * Entrada e saída formatada
-
----
